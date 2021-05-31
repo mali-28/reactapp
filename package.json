@@ -30,7 +30,6 @@
   "bugs": {
     "url": "https://github.com/mali-28/reactwebsite/issues"
   },
-  
   "browserslist": {
     "production": [
       ">0.2%",
