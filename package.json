@@ -1,7 +1,7 @@
 {
   "name": "finalproject",
   "version": "1.0.0",
-  "homepage": "https://mali-28.github.io/reactwebsite",
+  "homepage": "https://mali-28.github.io/reactmyapp",
   "description": "final project in react app",
   "main": "index.js",
   "dependencies": {
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mali-28/reactwebsite.git"
+    "url": "https://github.com/mali-28/reactmyapp.git"
   },
   "author": "Muhammad Ali",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mali-28/reactwebsite/issues"
+    "url": "https://github.com/mali-28/reactmyapp/issues"
   },
   "browserslist": {
     "production": [
