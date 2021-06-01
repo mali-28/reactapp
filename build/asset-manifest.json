@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactmyapp/static/css/main.16e6c73a.chunk.css",
+    "main.js": "/reactmyapp/static/js/main.6e845e95.chunk.js",
+    "main.js.map": "/reactmyapp/static/js/main.6e845e95.chunk.js.map",
+    "runtime-main.js": "/reactmyapp/static/js/runtime-main.32ee482d.js",
+    "runtime-main.js.map": "/reactmyapp/static/js/runtime-main.32ee482d.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/reactmyapp/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.21e6ebf5.chunk.js": "/reactmyapp/static/js/2.21e6ebf5.chunk.js",
+    "static/js/2.21e6ebf5.chunk.js.map": "/reactmyapp/static/js/2.21e6ebf5.chunk.js.map",
+    "index.html": "/reactmyapp/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/reactmyapp/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.16e6c73a.chunk.css.map": "/reactmyapp/static/css/main.16e6c73a.chunk.css.map",
+    "static/js/2.21e6ebf5.chunk.js.LICENSE.txt": "/reactmyapp/static/js/2.21e6ebf5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32ee482d.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.21e6ebf5.chunk.js",
+    "static/css/main.16e6c73a.chunk.css",
+    "static/js/main.6e845e95.chunk.js"
+  ]
+}
